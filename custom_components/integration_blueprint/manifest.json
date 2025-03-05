@@ -1,12 +1,10 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
-  "codeowners": [
-    "@ludeeus"
-  ],
+  "domain": "discord_status_location",
+  "name": "Discord status location",
+  "codeowners": [],
   "config_flow": true,
-  "documentation": "https://github.com/ludeeus/integration_blueprint",
+  "documentation": "https://github.com/PeterKorda/hacs-discord-status",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ludeeus/integration_blueprint/issues",
+  "issue_tracker": "https://github.com/PeterKorda/hacs-discord-status",
   "version": "0.1.0"
 }
